@@ -37,7 +37,7 @@
 
 1. **克隆或下载项目**
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/657258535/WHOIS-lookup.git
    cd WHOIS-lookup
    ```
 
